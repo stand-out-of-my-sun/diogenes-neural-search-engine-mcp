@@ -1,6 +1,6 @@
 {
   "name": "@stand-out-of-my-sun/diogenes-neural-search-engine-mcp",
-  "version": "1.0.0",
+  "version": "1.4.0",
   "description": "12 real-time neural search, grounded research & factual verification tools: neural search synthesizer, deep research dossier compiler, Boolean & semantic query expander, curated domain registry filter, breaking news recency & velocity tracker, factual consensus claim verifier, scholarly citation compiler (BibTeX/APA/IEEE), topic subgraph clusterer, bull/bear media sentiment oracle, expert source ranker, chronological timeline synthesizer, and competitive landscape matrix.",
   "license": "MIT",
   "author": "@stand-out-of-my-sun",
@@ -17,7 +17,7 @@
     "diogenes-neural-search-engine-mcp": "index.js"
   },
   "scripts": {
-    "test": "node --test test/*.test.mjs"
+    "start": "node index.js"
   },
   "keywords": [
     "mcp",
@@ -25,20 +25,14 @@
     "neural-search",
     "deep-research",
     "fact-checking",
-    "news-recency",
-    "citations",
-    "bibtex",
     "sentiment-analysis",
-    "semantic-search",
-    "market-intelligence",
-    "timeline",
+    "citations",
+    "search-engine",
+    "streamable-http",
     "glama",
     "tensorblock",
     "l402",
-    "x402",
-    "mpp",
-    "streamable-http",
-    "ai-agents"
+    "x402"
   ],
   "mcp": {
     "serverId": "io.github.stand-out-of-my-sun/diogenes-neural-search-engine",
@@ -51,9 +45,5 @@
     "installConfidence": "high",
     "verification": "verified",
     "toolsCount": 12
-  },
-  "type": "module",
-  "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.6.0"
   }
 }
