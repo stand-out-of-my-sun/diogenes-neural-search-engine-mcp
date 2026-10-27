@@ -1,8 +1,8 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
   "name": "io.github.stand-out-of-my-sun/diogenes-neural-search-engine",
-  "description": "12 real-time neural search, grounded research & factual verification tools: neural search synthesizer, deep research dossier compiler, Boolean & semantic query expander, curated domain registry filter, breaking news recency & velocity tracker, factual consensus claim verifier, scholarly citation compiler (BibTeX/APA/IEEE), topic subgraph clusterer, bull/bear media sentiment oracle, expert source ranker, chronological timeline synthesizer, and competitive landscape matrix.",
-  "version": "1.0.0",
+  "description": "12 real-time neural search, grounded research & factual verification tools: neural search synthesizer, deep research dossier compiler, Boolean & semantic query expander, curated domain registry filter",
+  "version": "1.4.0",
   "license": "MIT",
   "maintainer": "@stand-out-of-my-sun",
   "category": "Search & Deep Research",
