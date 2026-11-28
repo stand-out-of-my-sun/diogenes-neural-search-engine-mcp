@@ -62,7 +62,8 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "price": "15 sats (L402)"
   },
   {
     "name": "compile_research_dossier",
@@ -132,7 +133,8 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "price": "15 sats (L402)"
   },
   {
     "name": "expand_search_queries",
@@ -192,7 +194,10 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "price_sats": 0,
+    "price": "Free Developer Tier (0 sats)",
+    "protocol": "Free"
   },
   {
     "name": "filter_domain_intelligence",
@@ -253,7 +258,10 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "price_sats": 0,
+    "price": "Free Developer Tier (0 sats)",
+    "protocol": "Free"
   },
   {
     "name": "analyze_news_recency",
@@ -319,7 +327,8 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "price": "15 sats (L402)"
   },
   {
     "name": "verify_factual_claims",
@@ -384,7 +393,8 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "price": "15 sats (L402)"
   },
   {
     "name": "extract_scholarly_citations",
@@ -445,7 +455,8 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "price": "15 sats (L402)"
   },
   {
     "name": "cluster_topic_subgraphs",
@@ -505,7 +516,8 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "price": "15 sats (L402)"
   },
   {
     "name": "analyze_media_sentiment",
@@ -570,7 +582,8 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "price": "15 sats (L402)"
   },
   {
     "name": "rank_expert_sources",
@@ -630,7 +643,8 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "price": "15 sats (L402)"
   },
   {
     "name": "summarize_temporal_timeline",
@@ -690,7 +704,8 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "price": "15 sats (L402)"
   },
   {
     "name": "compile_competitive_landscape",
@@ -755,6 +770,7 @@
       "destructiveHint": false,
       "idempotentHint": true,
       "openWorldHint": false
-    }
+    },
+    "price": "15 sats (L402)"
   }
 ]
